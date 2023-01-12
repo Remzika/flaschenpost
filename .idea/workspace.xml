@@ -49,7 +49,7 @@
     </key>
   </component>
   <component name="RunManager" selected="Cucumber Java.Feature: US001">
-    <configuration name="Feature: US001" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" nameIsGenerated="true">
+    <configuration name="Feature: US001" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/UI_Features/US001.feature" />
       <option name="GLUE" value="stepDefinitions" />
@@ -72,11 +72,12 @@
     <configuration name="Scenario: Task 1 “Add to cart”" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/UI_Features/US001.feature" />
-      <option name="GLUE" value="stepdefinitions" />
+      <option name="GLUE" value="stepDefinitions" />
       <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
       <module name="flaschenpost" />
       <option name="NAME_FILTER" value="^Task 1 \“Add to cart\”$" />
       <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Task 1 \“Add to cart\”$&quot;" />
+      <shortenClasspath name="NONE" />
       <option name="SUGGESTED_NAME" value="Scenario: Task 1 “Add to cart”" />
       <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
@@ -92,11 +93,12 @@
     <configuration name="Scenario: Test01" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/UI_Features/US001.feature" />
-      <option name="GLUE" value="stepdefinitions" />
+      <option name="GLUE" value="stepDefinitions" />
       <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
       <module name="flaschenpost" />
       <option name="NAME_FILTER" value="^Test01$" />
       <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Test01$&quot;" />
+      <shortenClasspath name="NONE" />
       <option name="SUGGESTED_NAME" value="Scenario: Test01" />
       <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
@@ -172,9 +174,9 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Cucumber Java.Feature: US001" />
       <item itemvalue="Cucumber Java.Scenario: Task 1 “Add to cart”" />
       <item itemvalue="Cucumber Java.Scenario: Test01" />
+      <item itemvalue="Cucumber Java.Feature: US001" />
       <item itemvalue="JUnit.ApiSchemaTest.jsonSchemaTest" />
       <item itemvalue="JUnit.ApiSchemaTest.statusCodeTest" />
       <item itemvalue="JUnit.Runner" />
@@ -182,6 +184,7 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Cucumber Java.Feature: US001" />
         <item itemvalue="JUnit.ApiSchemaTest" />
       </list>
     </recent_temporary>
@@ -202,7 +205,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673485541654</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="it has done">
+      <created>1673487106976</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673487106976</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
