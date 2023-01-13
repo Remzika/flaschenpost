@@ -14,7 +14,7 @@
 + Json-schema-validator from Rest-Asurred 4.3.3
 ---
 ## Prerequisites
-#### It is Java-Selenium project. To run it needs Java 1.8 jdk. You may run that test framework on your local in your IDE (IntelliJ recommended). Also it can start from command line. In order to run from commandline you need to have Maven in your local.
+#### It is Java-Selenium project. To run it needs Java 17 jdk. You may run that test framework on your local in your IDE (IntelliJ recommended). Also it can start from command line. In order to run from commandline you need to have Maven in your local.
 ### Usage
 #### The Runner class in the Runners folder is responsible for running the UI part of the test.
 
